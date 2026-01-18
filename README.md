@@ -177,10 +177,15 @@ We thank the authors of the following projects for their wonderful and open-sour
 
 ## 📜 Cite Us
 ```
-@article{agarwal2024scenecomplete,
-  title={SceneComplete: Open-World 3D Scene Completion in Complex Real World Environments for Robot Manipulation},
-  author={Agarwal, Aditya and Singh, Gaurav and Sen, Bipasha and Lozano-P{\'e}rez, Tom{\'a}s and Kaelbling, Leslie Pack},
-  journal={arXiv preprint arXiv:2410.23643},
-  year={2024}
+@ARTICLE{11235964,
+  author={Agarwal, Aditya and Singh, Gaurav and Sen, Bipasha and Lozano-Pérez, Tomás and Kaelbling, Leslie Pack},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={SceneComplete: Open-World 3D Scene Completion in Cluttered Real World Environments for Robot Manipulation}, 
+  year={2026},
+  volume={11},
+  number={1},
+  pages={482-489},
+  keywords={Three-dimensional displays;Image reconstruction;Adaptation models;Pipelines;Image segmentation;Accuracy;Solid modeling;Predictive models;Reliability;Shape;Perception for grasping and manipulation;RGB-D perception;manipulation planning},
+  doi={10.1109/LRA.2025.3630884}
 }
 ```
